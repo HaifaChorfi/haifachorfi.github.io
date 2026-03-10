@@ -25,7 +25,6 @@ Frameworks backend et API: Laravel Symfony Spring Boot PHP |
 Programmation et académique: C Java Kotlin Python |
 Bases de données & Outils: MySQL SQLite Git
 
-## 🌐 Me Retrouver
 
 <div align="center">
 

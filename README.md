@@ -17,7 +17,6 @@ Institut Supérieur des Études Technologiques
 ## Activités académiques
 Enseignement universitaire |
 Encadrement des projets PFE |
-Recherche appliquée |
 Développement de plateformes intelligentes
 
 ## Compétences
